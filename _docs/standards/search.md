@@ -12,10 +12,10 @@ If search functionality is required, it must:
 * Provide a search bar at the top centre of each page, pinned to the top menu (iOS Human Interface Guidelines)
 
 ### Search Bar 
-<img src="/images/examples/design-standards-navigation-search-input.png" style="max-width: 2000px">
+<img src="{{ '/images/examples/design-standards-navigation-search-input.png' | prepend: site.baseurl }}" style="max-width: 2000px">
 
 ### Generic Layout Showing Search Feature
-<img class="img-responsive img-thumbnail" alt="Generic Layout Showing Search Feature" src="/images/examples/design-standards-navigation-search-search-example.png">
+<img class="img-responsive img-thumbnail" alt="Generic Layout Showing Search Feature" src="{{ '/images/examples/design-standards-navigation-search-search-example.png' | prepend: site.baseurl }}">
 
 ## Input
 Search must be a free text field (iOS Human Interface Guidelines, Material.io).  
@@ -45,4 +45,4 @@ Five most relevant search items should appear, and update in real-time, under th
   
 Search results must show relevant results only and must hide irrelevant results.  
 
-If the search finds no results, an error message must appear - see [Errors](errors.html) - or the interface must suggest other search terms or results.  
+If the search finds no results, an error message must appear - see [Errors]({{site.baseurl}}/standards/errors) - or the interface must suggest other search terms or results.  

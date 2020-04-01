@@ -1,20 +1,22 @@
-repository: nwisbeta/nwisbeta.github.io
+repository: nwisbeta/mobile-app-design
+
+baseurl: /mobile-app-design
 
 github: [metadata]
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: "NHS Wales Informatics Service: Software Development"
+topnav_title: "NHS Wales Informatics Service: Mobile App Design Standards"
 # this appears on the top navigation bar next to the home button
 
-site_title: "NWIS Software Development: Health APIs"
+site_title: "NWIS Mobile App Design Standards"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: NHS Wales Informatics Service
 # this appears in the footer
 
-github_editme_path: /nwisbeta/nwisbeta.github.io/tree/master/
+github_editme_path: /nwisbeta/mobile-app-design/tree/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -39,6 +41,7 @@ exclude:
   - docker-compose.yml
   - Gemfile
   - Gemfile.lock
+  - README.md
   
 # these are the files and directories that jekyll will exclude from the build
 
@@ -55,8 +58,6 @@ feedback_text: "Need help?"
 
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
-
-github: [metadata]
 
 highlighter: rouge
 # library used for syntax highlighting

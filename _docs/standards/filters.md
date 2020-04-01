@@ -11,7 +11,7 @@ The app design must:
 * Provide both filter text and icon to indicate the presence of a filter option
 * Allow users to reset filter options
 
-<img src="/images/examples/design-standards-navigation-filters-icon.png" style="max-width: 120px;">
+<img src="{{ '/images/examples/design-standards-navigation-filters-icon.png' | prepend: site.baseurl }}" style="max-width: 120px;">
 
 Filters should allow the user to narrow search options using the simplest method available, such as a toggle for yes/no options.  Do not display irrelevant filter options.  
 

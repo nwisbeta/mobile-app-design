@@ -20,7 +20,7 @@ The log in page must include:
 
 ### Access Using Username or Email Address, and Password Authentication
 
-<img class="img-responsive img-thumbnail" alt="Log In Using Username or Email Address, and Password Authentication" src="/images/examples/design-standards-access-login-app-name.png" caption="Generic app log in page enabling users to gain access to the app through authentication with their username/email address and password">
+<img class="img-responsive img-thumbnail" alt="Log In Using Username or Email Address, and Password Authentication" src="{{ '/images/examples/design-standards-access-login-app-name.png' | prepend: site.baseurl }}" caption="Generic app log in page enabling users to gain access to the app through authentication with their username/email address and password">
 
   
 * Relevant icons must appear next to log in credential fields (see Tools > Icons)
@@ -28,11 +28,11 @@ The log in page must include:
 * Use dots to hide password characters, for password security (iOS Human Interface Guidelines)
 * Biometric (fingerprint/facial recognition) log in should be supported, though not relied on, as a method of log in, as not all devices support this option (iOS Human Interface Guidelines)
 
-The log in page must display a forgotten details message and a link for password reset. See [Messaging and Standard Messages](messages.html) for sample messages wordings.
+The log in page must display a forgotten details message and a link for password reset. See [Messaging and Standard Messages]({{site.baseurl}}/standards/messages) for sample messages wordings.
 
 ### Access Through an External Authentication Service
 
-<img class="img-responsive img-thumbnail" alt="Log In Through an External Authentication Service" src="/images/examples/design-standards-access-login-forgotten.png">
+<img class="img-responsive img-thumbnail" alt="Log In Through an External Authentication Service" src="{{ '/images/examples/design-standards-access-login-forgotten.png' | prepend: site.baseurl }}">
 
 ## Log In After Session Timeout
 
@@ -43,7 +43,7 @@ The log in after session timeout page must include:
 * App name 
 * Request for PIN or email and password, or biometric (fingerprint/facial ID) authenticated entry
 * Dots to hide password characters, for password security (iOS Human Interface Guidelines) 
-* Forgotten details message and link, if this reset method is available - see [Messaging and Standard Messages](messages.html) for sample message wordings
+* Forgotten details message and link, if this reset method is available - see [Messaging and Standard Messages]({{site.baseurl}}/standards/messages) for sample message wordings
 
 ### Failed Log Ins or PIN Entry
 
@@ -51,7 +51,7 @@ After a failed log in or PIN entry attempt, the application must log out the use
 
 ### Access After Timeout, with PIN Request for Re-authentication  
 
-<img class="img-responsive img-thumbnail" alt="Log In After Timeout, with PIN Request" src="/images/examples/design-standards-access-login-pinexample.png">
+<img class="img-responsive img-thumbnail" alt="Log In After Timeout, with PIN Request" src="{{ '/images/examples/design-standards-access-login-pinexample.png' | prepend: site.baseurl }}">
 
 
 ## Log Out

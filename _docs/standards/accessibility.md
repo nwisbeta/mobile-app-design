@@ -23,13 +23,13 @@ The app design must not use colour alone as the only visual representation of co
 In particular:  
 * Avoid use of red with green colours as the only means of visual representations (iOS Human Interface Guidelines, WebAIM)  
 * Avoid use of blue with orange colours as the only means of visual representation (iOS Human Interface Guidelines)  
-* Show alerts using shape and text in addition to colour - see [Standard Features](standard-features.html)  
+* Show alerts using shape and text in addition to colour - see [Standard Features]({{site.baseurl}}/standards/standard-features)  
 
 ## Readability
 
 The app design must:
 * Enable users to resize text  up to 200% without assistive technology, and without loss of content or functionality (WCAG 2.1)
-* Provide appropriate text and paragraph spacing (WCAG 2.1) - see [Typography](typography.html)
+* Provide appropriate text and paragraph spacing (WCAG 2.1) - see [Typography]({{site.baseurl}}/standards/typography)
 * Provide titles for pages, or otherwise make clear the user's current page (WCAG 2.1)
 
 All text must have a target reading age of 7-9 with all other cases, such as medical terms, used as exceptions (WCAG 2.1).  Avoid using abbreviations or acronyms, unless commonly known (WCAG 2.1).  

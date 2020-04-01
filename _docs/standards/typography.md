@@ -41,11 +41,11 @@ Example: (sp = px * ratio * scale)
 
 ##  Colour 
 
-The app design must use the NWIS primary palette for text colour. see [Branding>Primary Palette](branding.html#primary-palette). 
+The app design must use the NWIS primary palette for text colour. see [Branding>Primary Palette]({{site.baseurl}}/standards/branding.html#primary-palette). 
 
 ### Contrast
 
-Text of 18pt or smaller must have a minimum contrast ratio of 4:5:1 between the colour of the text and the colour of the background behind the text - see [Accessibility](accessibility.html).  
+Text of 18pt or smaller must have a minimum contrast ratio of 4:5:1 between the colour of the text and the colour of the background behind the text - see [Accessibility]({{site.baseurl}}/standards/accessibility).  
 
 Text of more than 18pt must have a minimum contrast ratio of 3:1 between the text colour and the colour of the background behind the text.
 
@@ -60,7 +60,7 @@ The app design must use titles, headings, subtitles and body text consistently t
 The design must use bold to identify important information. Titles and headings must appear in bold text.
 
 ### Clinical App: Patient Information is Centred, Bold
-<img class="img-responsive img-thumbnail" alt="Patient Information is Centred, Bold" src="/images/examples/design-standards-typography-styles.png">
+<img class="img-responsive img-thumbnail" alt="Patient Information is Centred, Bold" src="{{ '/images/examples/design-standards-typography-styles.png' | prepend: site.baseurl }}">
 
 ### Paragraphs
 
@@ -85,9 +85,9 @@ Numbered lists must show the number followed by a full stop (GOV.UK Design Syste
 2. Lorem ipsum
 
 ### Case
-Avoid using all-capital letters, like SAVE, except for last names - see [Terminology and Language](terminology-and-language.html).
+Avoid using all-capital letters, like SAVE, except for last names - see [Terminology and Language]({{site.baseurl}}/standards/terminology-and-language).
 
-<img src="/images/examples/design-standards-case-example.png">
+<img src="{{ '/images/examples/design-standards-case-example.png' | prepend: site.baseurl }}">
 
 Titles, headings, subtitles, buttons and icons must use title case, capitalising the first letter of each word. Examples:  
 * App name: for example, Welsh Clinical Portal
@@ -108,7 +108,7 @@ For the following use cases, text may use right alignment:
 
 ### Settings page: General Settings, Preferences, Accessibility, Legal/Privacy, Log Out
 
-<img class="img-responsive img-thumbnail" alt="Settings Page" src="/images/examples/design-standards-alignment-example.png">
+<img class="img-responsive img-thumbnail" alt="Settings Page" src="{{ '/images/examples/design-standards-alignment-example.png' | prepend: site.baseurl }}">
 
 ## Links
 Users must be able to determine the purpose of the link from the link itself, or from link context (WCAG 2.1).
@@ -123,7 +123,7 @@ Linked text must not include a full stop at the end (GOV.UK Design System), even
 
 Links must open within the app, either embedded on the access page or within a new page.  
 * If a link opens in web browser it must go to a UI responsive website
-* If a link opens in web browser to a third party site, a warning message must notify the user - see [Messaging](messaging.html)
+* If a link opens in web browser to a third party site, a warning message must notify the user - see [Messaging]({{site.baseurl}}/standards/messaging)
 
 ### Link Text
 
@@ -132,7 +132,7 @@ Links must open within the app, either embedded on the access page or within a n
 | Body  | Calibri   | 14                 | Sentence  | Bold Underlined |
 
 ### In-app Link
-<img class="img-responsive img-thumbnail" alt="In-app Link" src="/images/examples/design-standards-links-example.png"> 
+<img class="img-responsive img-thumbnail" alt="In-app Link" src="{{ '/images/examples/design-standards-links-example.png' | prepend: site.baseurl }}"> 
 
 ## Standard Units
 

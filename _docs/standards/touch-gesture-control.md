@@ -8,7 +8,7 @@ folder: app_design
 
 Gestures must help users to navigate, take actions and manipulate content (Material.io).   
 
-Gestures must be as easy as possible to carry out. Consider screen reader interaction modes - see [Accessibility](accessibility.html) (WCAG 2.1). 
+Gestures must be as easy as possible to carry out. Consider screen reader interaction modes - see [Accessibility]({{site.baseurl}}/standards/accessibility) (WCAG 2.1). 
  
 The app design must use standard and familiar gestures (iOS Human Interface Guidelines) including:
 * Tap

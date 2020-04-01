@@ -20,7 +20,7 @@ On a page which is not a direct menu item, selecting the menu item must return t
 
 If there is no current direct menu location, a back button must enable navigation back to a menu location. The Back button must appear in the top left corner of the app, temporarily replacing the profile/menu item icon.  
 
-If the design includes a back button, it must also enable swipe navigation to return to the previous page, as an alternative. See [Touch Gesture Control](touch-gesture-control.html).  
+If the design includes a back button, it must also enable swipe navigation to return to the previous page, as an alternative. See [Touch Gesture Control]({{site.baseurl}}/standards/touch-gesture-control).  
 
 ## Layout
 
@@ -33,8 +33,8 @@ Bottom menu items must take users to top level pages for the features, which use
 Top menu must have no more than two items, on top left and top right of the screen.  
 
 All menu items must use:
-* Consistent terms - see [Terminology and Language](terminology-and-language.html)
-* Consistent icons - see [Icons](icons.html)
+* Consistent terms - see [Terminology and Language]({{site.baseurl}}/standards/terminology-and-language)
+* Consistent icons - see [Icons]({{site.baseurl}}/standards/icons)
 * Colour to highlight the user's current menu location, in a different colour to other menu items  
 * Colour of icons to show selected and deselected states: do not use two different icons to indicate selected and deselected states (iOS Human Interface Guidelines)  
 
@@ -53,10 +53,10 @@ The app design must use standard menu access points to provide app functions:
 * Top middle - search
 
 ### Layout with Back Button
-<img class="img-responsive img-thumbnail" alt="Layout with Back Button" src="/images/examples/design-standards-navigation-example-1.png">
+<img class="img-responsive img-thumbnail" alt="Layout with Back Button" src="{{ '/images/examples/design-standards-navigation-example-1.png' | prepend: site.baseurl }}">
 
 ## Behaviour
-Menu items must respond and adapt in size to different devices and screen sizes. See [Responsiveness  and Adaptivity](responsiveness.html).
+Menu items must respond and adapt in size to different devices and screen sizes. See [Responsiveness  and Adaptivity]({{site.baseurl}}/standards/responsiveness).
 
 The app design must enable menu items on all pages except when a keyboard is available (see below) (iOS Human Interface Guidelines).  If a keyboard is available, the design must hide the bottom menu items (iOS Human Interface Guidelines).  
     
@@ -66,7 +66,7 @@ Each menu item must:
 
 Menu item text must be short (Material.io).  Do not wrap text around an icon, or shrink text to fit (Material.io).
 
-<img alt="Home Button" src="/images/examples/design-standards-navigation-menus.png" style="max-width: 120px"> 
+<img alt="Home Button" src="{{ '/images/examples/design-standards-navigation-menus.png' | prepend: site.baseurl }}" style="max-width: 120px"> 
 
 ## Notifications
 Menu items must display the relevant number of notifications in a red circle on the menu item, including:
@@ -74,4 +74,4 @@ Menu items must display the relevant number of notifications in a red circle on 
 * Pending requests
 * Alerts requiring action
 
-<img src="/images/examples/design-standards-navigation-feed-image.png" alt="Notifications Example" style="max-width: 120px">
+<img src="{{ '/images/examples/design-standards-navigation-feed-image.png' | prepend: site.baseurl }}" alt="Notifications Example" style="max-width: 120px">

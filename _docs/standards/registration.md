@@ -10,7 +10,7 @@ folder: app_design
 
 If the app allows the user to self-register, the design must:
 * Hide password characters behind dots for security (iOS Human Interface Guidelines)  
-* Display a lock icon next to password field - see [Icons](icons.html)  
+* Display a lock icon next to password field - see [Icons]({{site.baseurl}}/standards/icons)  
 
 ## Non-essential Information 
 
@@ -36,7 +36,7 @@ The app must send registration receipts in the same format as they were agreed o
 
 Consider email validation during the registration process. 
 
-Any error message must appear immediately when a validation error occurs during registration, while the user is completing data entry (GOV.UK Design System) - see [Errors](errors.html). Avoid displaying error messages after the user has submitted the form.
+Any error message must appear immediately when a validation error occurs during registration, while the user is completing data entry (GOV.UK Design System) - see [Errors]({{site.baseurl}}/standards/errors). Avoid displaying error messages after the user has submitted the form.
 
 ### Obtain Consent if Required
 
@@ -46,12 +46,12 @@ Do not combine the process of registration, agreeing to terms and conditions, an
 
 ### User Credentials Required for Registration
 
-<img class="img-responsive img-thumbnail" alt="User Credentials Required for Registration" src="/images/examples/design-standards-access-registration1.png">
+<img class="img-responsive img-thumbnail" alt="User Credentials Required for Registration" src="{{ '/images/examples/design-standards-access-registration1.png' | prepend: site.baseurl }}">
 
 ### User Credentials Required for Registration, Second Step
 
-<img class="img-responsive img-thumbnail" alt="User Credentials Required for Registration, Second Step" src="/images/examples/design-standards-access-registration2.png">
+<img class="img-responsive img-thumbnail" alt="User Credentials Required for Registration, Second Step" src="{{ '/images/examples/design-standards-access-registration2.png' | prepend: site.baseurl }}">
 
 ### Terms and Conditions as a Summary and in Full, Final Step 
 
-<img class="img-responsive img-thumbnail" alt="Terms and Conditions as a Summary and in Full, Final Step" src="/images/examples/design-standards-access-registration3.png">
+<img class="img-responsive img-thumbnail" alt="Terms and Conditions as a Summary and in Full, Final Step" src="{{ '/images/examples/design-standards-access-registration3.png' | prepend: site.baseurl }}">

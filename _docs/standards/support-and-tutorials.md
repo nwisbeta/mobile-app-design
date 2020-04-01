@@ -6,7 +6,7 @@ toc: true
 folder: app_design 
 ---
 
-All apps must have help information located in the settings, for support information and tutorials - see [Standard Features](standard-features.html).  
+All apps must have help information located in the settings, for support information and tutorials - see [Standard Features]({{site.baseurl}}/standards/standard-features).  
 
 Support information and tutorials must:  
 * Provide digital support to users  
@@ -39,7 +39,7 @@ For automatic tutorials:
 * Invoke a general app tutorial when a user first loads and uses the app
 * Invoke a tutorial for a specific function at first use, such as using a watchlist: ensure the presence and access point of the tutorial is clearly available 
 
-Users must have the option to activate tutorials in the help section - see [Standard Features](standard-features.html).
+Users must have the option to activate tutorials in the help section - see [Standard Features]({{site.baseurl}}/standards/standard-features).
 
 Automatic tutorials must not be a barrier to app usage or engagement.  
 
@@ -49,11 +49,11 @@ Enable users to easily cancel tutorials at any point after entering.
     <div class="row">
     <div class="col-md-6 col-lg-6"> 
 		<h3>Tutorial Start</h3> 
-		<img class="img-responsive img-thumbnail" alt="Tutorial Start" src="/images/examples/design-standards-user-interaction-guides1.png">
+		<img class="img-responsive img-thumbnail" alt="Tutorial Start" src="{{ '/images/examples/design-standards-user-interaction-guides1.png' | prepend: site.baseurl }}">
     </div>
     <div class="col-md-6 col-lg-6">
 		<h3>Tutorial Page 2</h3> 
-		<img class="img-responsive img-thumbnail" alt="Tutorial Page 2" src="/images/examples/design-standards-user-interaction-guides2.png">
+		<img class="img-responsive img-thumbnail" alt="Tutorial Page 2" src="{{ '/images/examples/design-standards-user-interaction-guides2.png' | prepend: site.baseurl }}">
     </div>
   </div>
 </div>

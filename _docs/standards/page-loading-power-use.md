@@ -10,10 +10,10 @@ Aim for pages to load within 2 seconds.
 
 If pages do not load within 1 second, a spinner progress indicator must appear. 
 
-Swipe down gesture must enable users to manually refresh pages, where information is regularly updated (Material.io) - see [Touch Gesture Controls](touch-gesture-control.html).  
+Swipe down gesture must enable users to manually refresh pages, where information is regularly updated (Material.io) - see [Touch Gesture Controls]({{site.baseurl}}/standards/touch-gesture-control).  
 
 ### Loading Indicator Appears If Page Loading is Slow
-<img class="img-responsive img-thumbnail" alt="Loading Indicator Example" src="/images/examples/design-standards-loading-page.png">
+<img class="img-responsive img-thumbnail" alt="Loading Indicator Example" src="{{ '/images/examples/design-standards-loading-page.png' | prepend: site.baseurl }}">
 
 ## Power Efficiency
 Follow best practice app design to minimise battery drainage by the app.  

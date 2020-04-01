@@ -10,7 +10,7 @@ folder: app_design
 Error messages throughout the app must:
 * Be relevant, understandable and actionable (Material.io)
 * Explain what went wrong and how to fix it, in plain language (GOV.UK Design System, WCAG 2.1)
-* Use consistent phrases - see [Messaging](messaging.html)
+* Use consistent phrases - see [Messaging]({{site.baseurl}}/standards/messaging)
 
 Do not use technical language in error messages.
 
@@ -29,8 +29,8 @@ The app design must configure crash reports to go to developers, for error track
 ## Layout 
 * Provide a short text that fits on one or two lines (iOS Human Interface Guidelines)  
 * Appear as a pop up with a heading (minimum bold 20 sp and body text (minimum 14 sp)  
-* Use in sentence case - see [Typography](typography.html)  
+* Use in sentence case - see [Typography]({{site.baseurl}}/standards/typography)  
 
 ### Pop Up Error Message
 
-<img class="img-responsive img-thumbnail" alt="Pop Up Error Message" src="/images/examples/design-standards-ui-errors-example.png">  
+<img class="img-responsive img-thumbnail" alt="Pop Up Error Message" src="{{ '/images/examples/design-standards-ui-errors-example.png' | prepend: site.baseurl }}">  

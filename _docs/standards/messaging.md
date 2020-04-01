@@ -15,7 +15,7 @@ The messaging used throughout the app must:
 
 Provide 'click here' type functionality when messaging connects to an action:
 
-* Link text must be in bold and underlined - see [Typography](typography.html). 
+* Link text must be in bold and underlined - see [Typography]({{site.baseurl}}/standards/typography). 
 * Link must open a new page or pop up
 
 ## Standard Messages
@@ -55,7 +55,7 @@ Provide 'click here' type functionality when messaging connects to an action:
 ## Error Messages  
 Provide error messages as pop ups, with heading and body text and two action buttons 
 
-See [Pop Ups](popups.html) and [Buttons](buttons.html) for details.
+See [Pop Ups]({{site.baseurl}}/standards/popups) and [Buttons]({{site.baseurl}}/standards/buttons) for details.
 
 ### Invalid Patient ID
 
@@ -84,7 +84,7 @@ See [Pop Ups](popups.html) and [Buttons](buttons.html) for details.
 * You have notifications that require attention  
 
 ## Pop Up
-Present pop up messages with heading and body text. See [Pop Ups](popups.html).  
+Present pop up messages with heading and body text. See [Pop Ups]({{site.baseurl}}/standards/popups).  
 Depending on the action available, pop ups must contain one or two action buttons, which must use the following terms in the order shown:
 
 * No and Yes  

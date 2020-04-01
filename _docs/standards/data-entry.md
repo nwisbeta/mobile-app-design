@@ -51,7 +51,7 @@ The app design must:
 
 ### Data Entry Elements
 
-See [Selection Controls](selection-controls.html) for full guidance. 
+See [Selection Controls]({{site.baseurl}}/standards/selection-controls) for full guidance. 
 
 The app design must use:
 * Radio buttons to select a single option from a list: avoid pre-selecting radio buttons (GOV.UK Design System, Material.io)

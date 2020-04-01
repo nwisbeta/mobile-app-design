@@ -10,13 +10,13 @@ folder: app_design
 Pop ups must: 
 * Require the user to act (Material.io)  
 * Provide relevant and actionable information (Material.io)  
-* Use consistent messaging see [Messaging](messaging.html)
+* Use consistent messaging see [Messaging]({{site.baseurl}}/standards/messaging)
 * Contain a heading (minimum bold 20 sp) and body text (minimum 14 sp)  
-* Display one or two action buttons (Material.io) - see [Buttons](buttons.html)
+* Display one or two action buttons (Material.io) - see [Buttons]({{site.baseurl}}/standards/buttons)
 
 ## Pop Up Message Syntax 
 
-Pop up headings must provide a brief statement (Material.io) of up to four words relating to the pop up - see [Messaging](messaging.html).
+Pop up headings must provide a brief statement (Material.io) of up to four words relating to the pop up - see [Messaging]({{site.baseurl}}/standards/messaging).
 
 Pop up body text must provide a concise message (iOS Human Interface Guidelines), with a full stop or question mark at the end of the message (Material.io).
 
@@ -26,9 +26,9 @@ When a pop up appears, use a transparent overlay to darken the background.
 
 ### Pop up Message with Action Buttons
 
-<img class="img-responsive img-thumbnail" alt="Pop up Message with Action Buttons" src="/images/examples/design-standards-user-interaction-popup.png">
+<img class="img-responsive img-thumbnail" alt="Pop up Message with Action Buttons" src="{{ '/images/examples/design-standards-user-interaction-popup.png' | prepend: site.baseurl }}">
 
-Pop ups require a minimum contrast ratio of 3:1 between the pop up colour and colour of the screen behind the pop up (WCAG 2.1) - see [Accessibility](accessibility.html).
+Pop ups require a minimum contrast ratio of 3:1 between the pop up colour and colour of the screen behind the pop up (WCAG 2.1) - see [Accessibility]({{site.baseurl}}/standards/accessibility).
 
 To close a pop up, the user must select an action button (Material.io).
 
