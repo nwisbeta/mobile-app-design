@@ -23,7 +23,7 @@ Check Information Governance requirements to determine if the app must log all n
 
 Use in-app notifications for notifications, alerts and requests whilst the user has the app open.  
 
-In-app notifications must appear in a pop up - see [Pop Ups](/app-design/popups.html).   
+In-app notifications must appear in a pop up - see [Pop Ups](popups.html).   
 
 Users must be able to cancel or ignore non-critical notifications.   
 

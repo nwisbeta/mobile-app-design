@@ -8,7 +8,7 @@ folder: app_design
 
 Do not display more information than is required (ICO, GDPR).  
 
-The app design must make additional non-essential information available by expanding a higher-level component to reveal lower level components - see [Gesture Control](/app-design/touch-gesture-control.html) or pop up - see [Pop Ups](/app-design/popups.html).
+The app design must make additional non-essential information available by expanding a higher-level component to reveal lower level components - see [Gesture Control](touch-gesture-control.html) or pop up - see [Pop Ups](popups.html).
 
 Collect only required information (GOV.UK Design System, ICO, GDPR).  
 

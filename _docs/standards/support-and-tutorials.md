@@ -6,7 +6,7 @@ toc: true
 folder: app_design 
 ---
 
-All apps must have help information located in the settings, for support information and tutorials - see [Standard Features](/app-design/standard-features.html).  
+All apps must have help information located in the settings, for support information and tutorials - see [Standard Features](standard-features.html).  
 
 Support information and tutorials must:  
 * Provide digital support to users  
@@ -39,7 +39,7 @@ For automatic tutorials:
 * Invoke a general app tutorial when a user first loads and uses the app
 * Invoke a tutorial for a specific function at first use, such as using a watchlist: ensure the presence and access point of the tutorial is clearly available 
 
-Users must have the option to activate tutorials in the help section - see [Standard Features](/app-design/standard-features.html).
+Users must have the option to activate tutorials in the help section - see [Standard Features](standard-features.html).
 
 Automatic tutorials must not be a barrier to app usage or engagement.  
 

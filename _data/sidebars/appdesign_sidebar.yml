@@ -13,7 +13,7 @@ entries:
       url: /
       output: web
     - title: Glossary
-      url: /app-design/glossary/
+      url: /standards/glossary/
       output: web
 
   - title: Design Standards
@@ -21,35 +21,35 @@ entries:
 
     folderitems:
     - title: Layout
-      url: /app-design/layout/
+      url: /standards/layout/
       output: web, pdf
 
     - title: Branding
-      url: /app-design/branding/
+      url: /standards/branding/
       output: web, pdf
 
     - title: Standard Features
-      url: /app-design/standard-features/
+      url: /standards/standard-features/
       output: web, pdf
 
     - title: Typography
-      url: /app-design/typography/
+      url: /standards/typography/
       output: web, pdf
 
     - title: Terminology and Language
-      url: /app-design/terminology-and-language/
+      url: /standards/terminology-and-language/
       output: web, pdf
       
     - title: Page Loading and Power Use
-      url: /app-design/page-loading-power-use/
+      url: /standards/page-loading-power-use/
       output: web, pdf
 
     - title: Responsiveness and Adaptivity
-      url: /app-design/responsiveness/
+      url: /standards/responsiveness/
       output: web, pdf
     
     - title: Offline Use
-      url: /app-design/offline-use/
+      url: /standards/offline-use/
       output: web, pdf  
       
   - title: Access
@@ -57,19 +57,19 @@ entries:
     
     folderitems:  
     - title: First Use 
-      url: /app-design/first-use/
+      url: /standards/first-use/
       output: web, pdf
 
     - title: App Loading 
-      url: /app-design/app-loading/
+      url: /standards/app-loading/
       output: web, pdf
       
     - title: Log in and Log out 
-      url: /app-design/log-in-log-out/
+      url: /standards/log-in-log-out/
       output: web, pdf
       
     - title: Registration
-      url: /app-design/registration/
+      url: /standards/registration/
       output: web, pdf
       
   - title: Navigation
@@ -77,35 +77,35 @@ entries:
     
     folderitems:  
     - title: Menus
-      url: /app-design/menus/
+      url: /standards/menus/
       output: web, pdf
       
     - title: Transitions
-      url: /app-design/transitions/
+      url: /standards/transitions/
       output: web, pdf
 
     - title: Touch Gesture Controls
-      url: /app-design/touch-gesture-control/
+      url: /standards/touch-gesture-control/
       output: web, pdf
       
     - title: Buttons
-      url: /app-design/buttons/
+      url: /standards/buttons/
       output: web, pdf
   
     - title: Selection Controls
-      url: /app-design/selection-controls/
+      url: /standards/selection-controls/
       output: web, pdf
 
     - title: Search
-      url: /app-design/search/
+      url: /standards/search/
       output: web, pdf
   
     - title: Filters
-      url: /app-design/filters/
+      url: /standards/filters/
       output: web, pdf
    
     - title: Ordering
-      url: /app-design/ordering/
+      url: /standards/ordering/
       output: web, pdf
  
   - title: User Interaction
@@ -113,35 +113,35 @@ entries:
     
     folderitems:  
     - title: Messaging
-      url: /app-design/messaging/
+      url: /standards/messaging/
       output: web, pdf
       
     - title: Errors
-      url: /app-design/errors/
+      url: /standards/errors/
       output: web, pdf
 
     - title: User Feedback
-      url: /app-design/user-feedback/
+      url: /standards/user-feedback/
       output: web, pdf
       
     - title: Data Entry
-      url: /app-design/data-entry/
+      url: /standards/data-entry/
       output: web, pdf
   
     - title: Data Display
-      url: /app-design/data-display/
+      url: /standards/data-display/
       output: web, pdf
 
     - title: Pop Ups
-      url: /app-design/popups/
+      url: /standards/popups/
       output: web, pdf
   
     - title: Notifications
-      url: /app-design/notifications/
+      url: /standards/notifications/
       output: web, pdf
    
     - title: Support and Tutorials
-      url: /app-design/support-and-tutorials/
+      url: /standards/support-and-tutorials/
       output: web, pdf
 
   - title: Icons and Images
@@ -149,11 +149,11 @@ entries:
     
     folderitems:  
     - title: Icons 
-      url: /app-design/icons/
+      url: /standards/icons/
       output: web, pdf
       
     - title: Images 
-      url: /app-design/images/
+      url: /standards/images/
       output: web, pdf
   
   - title: Accessibility
@@ -161,7 +161,7 @@ entries:
     
     folderitems:  
     - title: Accessibility  
-      url: /app-design/accessibility/
+      url: /standards/accessibility/
       output: web, pdf
 
   - title: Information and Clinical Governance
@@ -169,7 +169,7 @@ entries:
     
     folderitems:  
     - title: Information and Clinical Governance  
-      url: /app-design/information-clinical-governance/
+      url: /standards/information-clinical-governance/
       output: web, pdf
       
   - title: Interoperability
@@ -177,6 +177,6 @@ entries:
     
     folderitems:  
     - title: Interoperability 
-      url: /app-design/interoperability/
+      url: /standards/interoperability/
       output: web, pdf
  

@@ -10,7 +10,7 @@ The app design must:
 
 * Display data consistently
 * Use consistent values
-* Use SI units as default, like metres, kilograms, litres - see [Typography](/app-design/typography.html) 
+* Use SI units as default, like metres, kilograms, litres - see [Typography](typography.html) 
 
 ## Patient Information Formatting
 
@@ -31,11 +31,11 @@ Clinical apps must accommodate long names and addresses. For example:
     Llanfairpwllgwyn…
     LL61 5YZ
 
-Avoid collecting titles - see [Data Entry](/app-design/data-entry.html).  If collected, display the patient's title, in brackets to distinguish it from the last name and first name (NHS Common User Interface). 
+Avoid collecting titles - see [Data Entry](data-entry.html).  If collected, display the patient's title, in brackets to distinguish it from the last name and first name (NHS Common User Interface). 
 
 Do not display more information than is required (ICO, GDPR).
 
-The app design must ensure additional non-essential information is accessible by expanding a higher level component to reveal lower level components - see [Gesture Control](/app-design/touch-gesture-control.html) and [Pop Ups](/app-design/popups.html).
+The app design must ensure additional non-essential information is accessible by expanding a higher level component to reveal lower level components - see [Gesture Control](touch-gesture-control.html) and [Pop Ups](popups.html).
 
 ### Clinical App with Patient Information
 
@@ -44,4 +44,4 @@ The app design must ensure additional non-essential information is accessible by
 ## Patient Results
 Only show recent or relevant patient results to avoid display of inaccurate/misleading information (GDPR, ICO).
   
-The app design must show results only on the appropriate screen size. If the device screen cannot accommodate results, provide an error message telling the user to use another device to view the results. See [Messaging and Standard Messages](/app-design/messaging.html).
+The app design must show results only on the appropriate screen size. If the device screen cannot accommodate results, provide an error message telling the user to use another device to view the results. See [Messaging and Standard Messages](messaging.html).

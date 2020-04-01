@@ -45,4 +45,4 @@ Five most relevant search items should appear, and update in real-time, under th
   
 Search results must show relevant results only and must hide irrelevant results.  
 
-If the search finds no results, an error message must appear - see [Errors](/app-design/errors.html) - or the interface must suggest other search terms or results.  
+If the search finds no results, an error message must appear - see [Errors](errors.html) - or the interface must suggest other search terms or results.  

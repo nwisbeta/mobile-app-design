@@ -28,7 +28,7 @@ The log in page must include:
 * Use dots to hide password characters, for password security (iOS Human Interface Guidelines)
 * Biometric (fingerprint/facial recognition) log in should be supported, though not relied on, as a method of log in, as not all devices support this option (iOS Human Interface Guidelines)
 
-The log in page must display a forgotten details message and a link for password reset. See [Messaging and Standard Messages](/app-design/messages.html) for sample messages wordings.
+The log in page must display a forgotten details message and a link for password reset. See [Messaging and Standard Messages](messages.html) for sample messages wordings.
 
 ### Access Through an External Authentication Service
 
@@ -43,7 +43,7 @@ The log in after session timeout page must include:
 * App name 
 * Request for PIN or email and password, or biometric (fingerprint/facial ID) authenticated entry
 * Dots to hide password characters, for password security (iOS Human Interface Guidelines) 
-* Forgotten details message and link, if this reset method is available - see [Messaging and Standard Messages](/app-design/messages.html) for sample message wordings
+* Forgotten details message and link, if this reset method is available - see [Messaging and Standard Messages](messages.html) for sample message wordings
 
 ### Failed Log Ins or PIN Entry
 

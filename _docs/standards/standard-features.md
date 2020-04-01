@@ -9,9 +9,9 @@ folder: app_design
 Most mobile apps provide common features such as the Home and Settings screens. 
 
 The app design must use standard features where relevant, including:  
-* Consistent terms (shared naming conventions) - see [Terminology and Language](/app-design/terminology-and-language.html)
-* Consistent icons (a shared icon set) - see [Icons](/app-design/icons.html)
-* Consistent menu access points - see [Menus](/app-design/menus.html)
+* Consistent terms (shared naming conventions) - see [Terminology and Language](terminology-and-language.html)
+* Consistent icons (a shared icon set) - see [Icons](icons.html)
+* Consistent menu access points - see [Menus](menus.html)
 
 ## Home
 The 'Home Page' or the 'Main Screen/Page' must include the most important app feature (primary reason for app) or provide a summary of the most important information. Users can configure or personalise this page through their settings if required.  
@@ -81,7 +81,7 @@ A feed must display date and time that each item was received.
 ### Feed Page 
 <img class="img-responsive img-thumbnail" alt="" alt="Feed Page" src="/images/examples/design-standards-sf-feed-example.png">
 
-Enable scroll gestures, to allow the user to move through the feed items - see [Touch Gesture Controls](/app-design/touch-gesture-control.html).  
+Enable scroll gestures, to allow the user to move through the feed items - see [Touch Gesture Controls](touch-gesture-control.html).  
 
 Information-only content does not require a notification, or action on the part of the user.  
 
@@ -89,7 +89,7 @@ Critical feed items which require a response from the user, must:
 * Provide a notification to alert the user, such as vibrating the phone or a sound
 * Must enable the user to address and resolve the issue, using protocols that an appropriate governance group have established
 
-In-app notifications - see [Pop Ups](/app-design/popups.html) - should prevent the user from doing other things until they take action (iOS Human Interface Guidelines).  
+In-app notifications - see [Pop Ups](popups.html) - should prevent the user from doing other things until they take action (iOS Human Interface Guidelines).  
 
 Important or critical feed items must appear at the top of the feed until acknowledged by the user. After the user acknowledges a feed item, it must appear as a past feed item, with a different colour background, to differentiate it from unread feed items.  
 
@@ -103,9 +103,9 @@ The feed icon must signal important notices on the bottom menu, unless the app d
 
 Enable scroll gestures, to allow the user to move through the feed items. Swipe down gesture must allow the user to refresh the feed.
   
-Selecting the feed menu item whilst in the feed must scroll to the top of the feed and refresh the page - see [Menus](/app-design/menus.html).  
+Selecting the feed menu item whilst in the feed must scroll to the top of the feed and refresh the page - see [Menus](menus.html).  
 
-See [Touch Gesture Controls](/app-design/touch-gesture-control.html) for guidance about standard control gestures.
+See [Touch Gesture Controls](touch-gesture-control.html) for guidance about standard control gestures.
 
 ## Connection and Communication Functions
 Connection and communication functions enable connecting or communicating with people or entities, such as a ward or patient within a particular hospital.  
@@ -115,9 +115,9 @@ Features should include:
 * Scroll gestures enabled to allow the user to move through connections and communications
 * Swipe down gesture enabled to allow the user to refresh connections/communications
 
-Selecting the connection/communication group menu item whilst in the feed must scroll to the top of the connection and communication page, and refresh the page  - see [Menus](/app-design/menus.html).
+Selecting the connection/communication group menu item whilst in the feed must scroll to the top of the connection and communication page, and refresh the page  - see [Menus](menus.html).
 
-See [Touch Gesture Controls](/app-design/touch-gesture-control.html) for guidance about standard control gestures.
+See [Touch Gesture Controls](touch-gesture-control.html) for guidance about standard control gestures.
 
 ### Connection/communication Page
 
@@ -128,13 +128,13 @@ Clinician apps must provide watchlists and alerts. Notifications are generally u
 
 Watchlists and alerts must: 
 
-* Appear in order from highest to lowest priority by default. See [Ordering](/app-design/ordering.html).
+* Appear in order from highest to lowest priority by default. See [Ordering](ordering.html).
 * Enable scroll gestures to navigate through items.  
 * Enable swipe down gesture to refresh the page.
 
 If the user selects a watchlist/alerts menu item whilst in the watchlist/alerts menu, the item must scroll to the top of the feed and refresh the page.
 
-See [Touch Gesture Controls](/app-design/touch-gesture-control.html) for guidance about standard control gestures.
+See [Touch Gesture Controls](touch-gesture-control.html) for guidance about standard control gestures.
 
 ### Watchlist
 Users must be able to modify which patients or people appear on their watchlist.  
@@ -153,7 +153,7 @@ Critical alerts must:
 * Provide a notification to the user, such as vibration or a sound
 * Require an acknowledgement by the user
 
-Critical notifications within the app should prevent the user from doing other things until they take action (iOS Human Interface Guidelines). See [Pop Ups](/app-design/popups.html). 
+Critical notifications within the app should prevent the user from doing other things until they take action (iOS Human Interface Guidelines). See [Pop Ups](popups.html). 
 
 Important alerts must appear at the top of the page until the user acknowledges them.  Once a user acknowledges an alert, the app must store it as a past alert and show it  with a different colour background to differentiate it from current alerts.  
 
@@ -193,7 +193,7 @@ Notifications must include the time and date they were sent from the server, or 
 
 Critical alerts must provide a notification to the user.  
 
-Critical notifications within the app - see [Pop Ups](/app-design/popups.html) should prevent the user from doing other things until they take action (iOS Human Interface Guidelines).  
+Critical notifications within the app - see [Pop Ups](popups.html) should prevent the user from doing other things until they take action (iOS Human Interface Guidelines).  
 
 Important notifications must appear at the top of the page until the user acknowledges them. Once a user acknowledges an alert, the app must store it as a past notification, and display it with a different colour background to differentiate it from new notifications.
 
@@ -201,10 +201,10 @@ The app must show a one-month history of notifications, loaded 10 items at a tim
 
 Notifications must:
 * Signal important notifications that may require receipt, via the notification menu item on bottom
-* Enable scroll gestures to move through the feed items - see [Touch Gesture Controls](/app-design/touch-gesture-control.html).  
-* Enable swipe down gesture to refresh the feed - see [Touch Gesture Controls](/app-design/touch-gesture-control.html).  
+* Enable scroll gestures to move through the feed items - see [Touch Gesture Controls](touch-gesture-control.html).  
+* Enable swipe down gesture to refresh the feed - see [Touch Gesture Controls](touch-gesture-control.html).  
   
-Clicking the notifications menu item whilst in the notifications menu must scroll to the top of the notifications menu and refresh the page - see [Menus](/app-design/menus.html).  
+Clicking the notifications menu item whilst in the notifications menu must scroll to the top of the notifications menu and refresh the page - see [Menus](menus.html).  
 
 ### Notifications Page to View, Retrieve Notifications
 
@@ -228,7 +228,7 @@ Users must be able to view and edit their profile information.
 <img class="img-responsive img-thumbnail" alt="" alt="Profile Page" src="/images/examples/design-standards-sf-profile-example.png">
 
 ## Search
-See [Search](/app-design/search.html).
+See [Search](search.html).
 
 ## Orientation
 App designs must support both portrait and landscape orientation (WCAG 2.1, iOS Human Interface Guidelines).  

@@ -14,11 +14,11 @@ All buttons must have a relevant action. Do not include inactive or disabled but
 Buttons must:
 
 * Display a clear message relating to the action of the button (Material.io, iOS Human Interface Guidelines)
-* Adapt to different devices and screen sizes - see [Responsiveness and Adaptivity](/app-design/responsiveness)
+* Adapt to different devices and screen sizes - see [Responsiveness and Adaptivity](responsiveness)
 * Provide short text, which fits the button size 
 * Provide the minimum touch target size of 44px x 44px, surrounded by a small amount of inactive space (WCAG 2.1, Material.io)
  
-The button size must equal the size of the button text, with 16dp padding either side (Material.io).  See the [Icons and Assets](/app-design/icons-assets.html) page for downloadable examples of buttons.
+The button size must equal the size of the button text, with 16dp padding either side (Material.io).  See the [Icons and Assets](icons-assets.html) page for downloadable examples of buttons.
 
 ### Touch Targets
 
@@ -33,14 +33,14 @@ Contained buttons' colour fill and elevation make them visually distinctive.
 Contained buttons must:
 
 * Perform an important action with a single tap (Material.io)
-* Use colour consistent with the colour palettes (Material.io) - see [Branding](/app-design/branding.html)
+* Use colour consistent with the colour palettes (Material.io) - see [Branding](branding.html)
 * Use title case for button text (iOS Human Interface Guidelines)  
 
 Contained button designs must include:
 * Rectangular shape 
 * 2dp elevation  
 * Central alignment on the screen or popup
-* Appropriate font and font colour for button text - see [Typography](/app-design/typography.html)  
+* Appropriate font and font colour for button text - see [Typography](typography.html)  
 * Text positioned on the centre of the button 
 
 ### Sample Log Out  
@@ -52,7 +52,7 @@ Contained button designs must include:
 For buttons within a pop up message, buttons must:
 * Appear side by side, at the bottom left and right of the message
 * Have at least 8dp between buttons
-* Use consistent messaging - see [Pop Ups](/app-design/popups.html)
+* Use consistent messaging - see [Pop Ups](popups.html)
 * Display one or two action buttons for the user to select from (Material.io)
 
 When the pop up provides two actions, the popup must show two action buttons, like providing an option to delete: 
@@ -62,7 +62,7 @@ When the pop up provides two actions, the popup must show two action buttons, li
 When the pop up provides a single action, like an error message, the popup must show a single action button: 
 * An invalid password popup reads: Please enter a valid password. Single button reads: OK
 
-Pop up buttons must appear on the appropriate side and in the appropriate colour - see [Pop Ups](/app-design/popups.html):  
+Pop up buttons must appear on the appropriate side and in the appropriate colour - see [Pop Ups](popups.html):  
 * Primary action button, such as Confirm, must appear on the right  
 * Secondary action button, such as Back, must appear on the left  
 * A single action button, such as OK or Cancel, appears in the middle  

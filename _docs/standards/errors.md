@@ -10,7 +10,7 @@ folder: app_design
 Error messages throughout the app must:
 * Be relevant, understandable and actionable (Material.io)
 * Explain what went wrong and how to fix it, in plain language (GOV.UK Design System, WCAG 2.1)
-* Use consistent phrases - see [Messaging](/app-design/messaging.html)
+* Use consistent phrases - see [Messaging](messaging.html)
 
 Do not use technical language in error messages.
 
@@ -29,7 +29,7 @@ The app design must configure crash reports to go to developers, for error track
 ## Layout 
 * Provide a short text that fits on one or two lines (iOS Human Interface Guidelines)  
 * Appear as a pop up with a heading (minimum bold 20 sp and body text (minimum 14 sp)  
-* Use in sentence case - see [Typography](/app-design/typography.html)  
+* Use in sentence case - see [Typography](typography.html)  
 
 ### Pop Up Error Message
 

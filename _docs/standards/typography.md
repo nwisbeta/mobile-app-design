@@ -41,11 +41,11 @@ Example: (sp = px * ratio * scale)
 
 ##  Colour 
 
-The app design must use the NWIS primary palette for text colour. see [Branding>Primary Palette](/app-design/branding.html#primary-palette). 
+The app design must use the NWIS primary palette for text colour. see [Branding>Primary Palette](branding.html#primary-palette). 
 
 ### Contrast
 
-Text of 18pt or smaller must have a minimum contrast ratio of 4:5:1 between the colour of the text and the colour of the background behind the text - see [Accessibility](/app-design/accessibility.html).  
+Text of 18pt or smaller must have a minimum contrast ratio of 4:5:1 between the colour of the text and the colour of the background behind the text - see [Accessibility](accessibility.html).  
 
 Text of more than 18pt must have a minimum contrast ratio of 3:1 between the text colour and the colour of the background behind the text.
 
@@ -85,7 +85,7 @@ Numbered lists must show the number followed by a full stop (GOV.UK Design Syste
 2. Lorem ipsum
 
 ### Case
-Avoid using all-capital letters, like SAVE, except for last names - see [Terminology and Language](/app-design/terminology-and-language.html).
+Avoid using all-capital letters, like SAVE, except for last names - see [Terminology and Language](terminology-and-language.html).
 
 <img src="/images/examples/design-standards-case-example.png">
 
@@ -123,7 +123,7 @@ Linked text must not include a full stop at the end (GOV.UK Design System), even
 
 Links must open within the app, either embedded on the access page or within a new page.  
 * If a link opens in web browser it must go to a UI responsive website
-* If a link opens in web browser to a third party site, a warning message must notify the user - see [Messaging](/app-design/messaging.html)
+* If a link opens in web browser to a third party site, a warning message must notify the user - see [Messaging](messaging.html)
 
 ### Link Text
 
